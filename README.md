@@ -27,6 +27,7 @@
 <a href="https://linkedin.com/in/bryce-guglietti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bryce-guglietti" height="30" width="40" /></a>
 <a href="https://fb.com/bryce.guglietti.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bryce.guglietti.3" height="30" width="40" /></a>
 <a href="https://instagram.com/bryceguglietti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bryceguglietti" height="30" width="40" /></a>
+<a href="https://hashnode.com/@bryceguglietti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@bryceguglietti" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bryceguglietti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bryceguglietti" height="30" width="40" /></a>
 </p>
 
