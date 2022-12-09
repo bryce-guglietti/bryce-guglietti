@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/brycejguglietti" target="blank"><img src="https://img.shields.io/twitter/follow/brycejguglietti?logo=twitter&style=for-the-badge" alt="brycejguglietti" /></a> </p>
 
-- 🔭 I’m currently working on [js-chat-room](https://github.com/bryce-guglietti/js-chat-room)
+- 🔭 I’m currently working on a website holding [The Rolling Stone Top 500 Albums Ranked](https://github.com/bryce-guglietti/top-500-albums)
 
 - 🌱 I’m currently learning **Angular, React.js, and TypeScript**
 
