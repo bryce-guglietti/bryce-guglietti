@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [https://bryceguglietti.netlify.app/](https://bryceguglietti.netlify.app/)
 
-- 💬 Ask me about **Python, Java, or JavaScript**
-
 - 📫 How to reach me **BryceJGuglietti@Outlook.com**
 
 - 📄 Know about my experiences [My Updated Resume](https://drive.google.com/file/d/1jXAyr3L-ut_JtQBdGQvR3mYv1S_E4Obz/view?usp=sharing)
